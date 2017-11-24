@@ -7,3 +7,11 @@ My name is Maciek and it's my first time with gitHub. I hope I will understand e
 this is first test for merging new feature to dev-master branch, you shoudn't be allowed to merge anything.
 
 pierwsza edycja w notepad++ na komputerze
+
+
+
+
+
+
+
+druga edycja
