@@ -11,6 +11,6 @@ pierwsza edycja w notepad++ na komputerze
 
 nie podobało mi sie to co na dole
 
-
+coś źle bo merguje do master a nie do dev-branch
 
 
