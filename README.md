@@ -14,3 +14,4 @@ nie podobało mi sie to co na dole
 coś źle bo merguje do master a nie do dev-branch
 
 teraz powinna ta zmiana pojsc do dev branch, oby
+dsd
