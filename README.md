@@ -9,4 +9,4 @@ this is first test for merging new feature to dev-master branch, you shoudn't be
 pierwsza edycja w notepad++ na komputerze
 
 
-teraz probuje wrzucic dane z usera zwyklego
+teraz probuje wrzucic dane z konta usera
