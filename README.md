@@ -13,4 +13,6 @@ nie podobało mi sie to co na dole
 
 coś źle bo merguje do master a nie do dev-branch
 
+dodalem odnosnik do google i teraz powinno mergowac do deva nie do mastera
+
 
