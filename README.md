@@ -8,7 +8,7 @@ this is first test for merging new feature to dev-master branch, you shoudn't be
 
 pierwsza edycja w notepad++ na komputerze
 
-
+fsafsaf
 
 dodalem odnosnik do google i teraz powinno mergowac do deva nie do mastera
 
